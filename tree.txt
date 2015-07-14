@@ -1,0 +1,34 @@
+Folder PATH listing for volume Windows8_OS
+Volume serial number is 8E6A-2A3C
+C:.
+³   db.sqlite3
+³   manage.py
+³   tree.txt
+³   
+ÃÄÄÄ.idea
+³       .name
+³       misc.xml
+³       modules.xml
+³       vcs.xml
+³       webDj.iml
+³       workspace.xml
+³       
+ÃÄÄÄtemplates
+³   ³   base.html
+³   ³   
+³   ÃÄÄÄcss
+³   ³       main.css
+³   ³       
+³   ÀÄÄÄhtml
+³           base.html
+³           
+ÀÄÄÄwebDj
+        settings.py
+        settings.pyc
+        urls.py
+        urls.pyc
+        wsgi.py
+        wsgi.pyc
+        __init__.py
+        __init__.pyc
+        
