@@ -102,4 +102,4 @@ STATIC_URL = '/static/'
 
 #j
 
-TEMPLATE_DIRS = (os.path.join(BASE_DIR, 'webDj/templates'))
+TEMPLATE_DIRS = (os.path.join(BASE_DIR, 'webDj/templates'),)
